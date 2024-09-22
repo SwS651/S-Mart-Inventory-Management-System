@@ -16,7 +16,7 @@ from app.models.product import Inventory, Product
 user_state = ""
  
 print("Bot Start...")
-API_KEY: Final = '7038381879:AAFW53rnahyEubeiBuB_t63-xYcKivWcIoI'
+API_KEY: Final = 'USE YOUR API KEY'
 BOT_USERNAME: Final = '@UOW_S_Mart_bot'
 
 basedir = os.path.abspath(os.path.dirname(__file__))
